@@ -28,9 +28,9 @@ Step 8: Save and run the application.
 ```
 Program to create and design an android application for performing different animations.
 
-Developed by: DEEPESH P
+Developed by: DHARANI P
 
-RegisterNumber: 212222220009
+RegisterNumber: 212222220011
 ```
 ## MainActivity.java:
 
